@@ -10,14 +10,14 @@ pip install mutagen
 python mp3_edit.py "Artist" "Album"
 #Artist and Album are optional
 
-#Add Titles.txt to change title in metadata of mp3 file(optional):
+#Add Titles.txt to cd to change title in metadata of mp3 file(optional):
 Track_1
 Track_2
 ...
   
-#Add Names.txt to change names of files in directory (optional):
+#Add Names.txt to cd to change names of files in directory (optional):
 Track.mp3
 Test_track.mp3
 ...
   
-#Note: Not all codecs are supprted
+#Note: Not all codecs are supported
